@@ -20,6 +20,6 @@ The ultimate goal is to develop a mask detection algorithm that enhances the sec
 new normal of mask-wearing in public spaces while maintaining high performance and reliability.
 
 
-**About the dataset**
+**About the dataset:**
 Data Set contains two folders named as Train and Test. Within each of these folders there are 2 different folders WithMask and WithoutMask. WithMask folder 
 contains grayscale images of faces with mask. WithoutMask folder contains grayscale images of faces with without mask. All images are of resolution 28x28.
